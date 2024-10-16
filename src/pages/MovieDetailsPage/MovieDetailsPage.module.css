@@ -1,0 +1,10 @@
+.btnLink{
+    display: inline-flex;
+    align-items: center;
+    color: green;
+}
+
+.movieDetailsContainer {
+    display: flex;
+    gap: 30px;
+}
